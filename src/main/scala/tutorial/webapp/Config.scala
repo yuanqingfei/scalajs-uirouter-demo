@@ -20,13 +20,13 @@ class RouterConfig(stateProvider: StateProvider, urlRouterProvider: UrlRouterPro
                   "columnOne@about" -> View("html/table-data.html", "routerCtrl"))))
 }
 
-object MySateWithController{
-  def apply(url: String, isAbstract: Boolean = false, templateUrl: String = "", controller: js.Any, views: Map[String, View] = Map.empty): State = {
-    val out = State(url, isAbstract, templateUrl, views)
-    out.controller = controller
-    out
-  }
-}
+//object MySateWithController{
+//  def apply(url: String, isAbstract: Boolean = false, templateUrl: String = "", controller: js.Any, views: Map[String, View] = Map.empty): State = {
+//    val out = State(url, isAbstract, templateUrl, views)
+//    out.controller = controller
+//    out
+//  }
+//}
   
 object MyStateWithTemplate{
   def apply(url: String, isAbstract: Boolean = false, templateUrl: String = "", template: String, views: Map[String, View] = Map.empty): State = {
@@ -34,9 +34,4 @@ object MyStateWithTemplate{
     out.template = template
     out
   }
-}
-
-@ScalaJSDefined
-trait ListCtrl extends js.Object{
-  
 }

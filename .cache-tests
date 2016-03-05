@@ -1,0 +1,126 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala -> D:\projects\scala\scalajs-uirouter-demo\bin
+compile options:
+9 items
+0 -> -javabootclasspath
+1 -> C:\Java\jdk1.8.0_73\jre\lib\resources.jar;C:\Java\jdk1.8.0_73\jre\lib\rt.jar;C:\Java\jdk1.8.0_73\jre\lib\jsse.jar;C:\Java\jdk1.8.0_73\jre\lib\jce.jar;C:\Java\jdk1.8.0_73\jre\lib\charsets.jar;C:\Java\jdk1.8.0_73\jre\lib\jfr.jar;C:\Java\jdk1.8.0_73\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_73\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_73\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_73\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_73\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_73\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_73\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_73\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_73\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_73\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_73\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_73\jre\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> D:\TDDOWNLOAD\scala-SDK-4.3.0-vfinal-2.11-win32.win32.x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+6 -> -Xplugin:D:\repoSbt\cache\org.scala-js\scalajs-compiler_2.11.7\jars\scalajs-compiler_2.11.7-0.6.7.jar
+7 -> -encoding
+8 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+12 items
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$1.class
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$2.class
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$3$$anonfun$apply$2$$anonfun$apply$3.class
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$3$$anonfun$apply$2.class
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$3$$anonfun$apply$4$$anonfun$apply$1$$anonfun$apply$mcVI$sp$1.class
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$3$$anonfun$apply$4$$anonfun$apply$1.class
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$3$$anonfun$apply$4$$anonfun$apply$5.class
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$3$$anonfun$apply$4$$anonfun$apply$6.class
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$3$$anonfun$apply$4.class
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$3.class
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$.class
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest.class
+binary dependencies:
+5 items
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> C:\Java\jdk1.8.0_73\jre\lib\rt.jar
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> D:\TDDOWNLOAD\scala-SDK-4.3.0-vfinal-2.11-win32.win32.x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> D:\repoSbt\cache\be.doeraene\scalajs-jquery_sjs0.6_2.11\jars\scalajs-jquery_sjs0.6_2.11-0.9.0.jar
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> D:\repoSbt\cache\com.lihaoyi\utest_sjs0.6_2.11\jars\utest_sjs0.6_2.11-0.3.0.jar
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> D:\repoSbt\cache\org.scala-js\scalajs-library_2.11\jars\scalajs-library_2.11-0.6.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> tutorial.webapp.TutorialTest
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> tutorial.webapp.TutorialTest$
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> tutorial.webapp.TutorialTest$$anonfun$tests$1
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> tutorial.webapp.TutorialTest$$anonfun$tests$2
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> tutorial.webapp.TutorialTest$$anonfun$tests$3
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> tutorial.webapp.TutorialTest$$anonfun$tests$3$$anonfun$apply$2
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> tutorial.webapp.TutorialTest$$anonfun$tests$3$$anonfun$apply$2$$anonfun$apply$3
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> tutorial.webapp.TutorialTest$$anonfun$tests$3$$anonfun$apply$4
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> tutorial.webapp.TutorialTest$$anonfun$tests$3$$anonfun$apply$4$$anonfun$apply$1
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> tutorial.webapp.TutorialTest$$anonfun$tests$3$$anonfun$apply$4$$anonfun$apply$1$$anonfun$apply$mcVI$sp$1
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> tutorial.webapp.TutorialTest$$anonfun$tests$3$$anonfun$apply$4$$anonfun$apply$5
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> tutorial.webapp.TutorialTest$$anonfun$tests$3$$anonfun$apply$4$$anonfun$apply$6
+used names:
+0 items
+product stamps:
+12 items
+D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$1.class -> lastModified(1457167230477)
+D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$2.class -> lastModified(1457167230493)
+D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$3$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1457167230518)
+D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$3$$anonfun$apply$2.class -> lastModified(1457167230508)
+D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$3$$anonfun$apply$4$$anonfun$apply$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1457167230545)
+D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$3$$anonfun$apply$4$$anonfun$apply$1.class -> lastModified(1457167230540)
+D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$3$$anonfun$apply$4$$anonfun$apply$5.class -> lastModified(1457167230552)
+D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$3$$anonfun$apply$4$$anonfun$apply$6.class -> lastModified(1457167230566)
+D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$3$$anonfun$apply$4.class -> lastModified(1457167230530)
+D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$$anonfun$tests$3.class -> lastModified(1457167230503)
+D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest$.class -> lastModified(1457167230471)
+D:\projects\scala\scalajs-uirouter-demo\bin\tutorial\webapp\TutorialTest.class -> lastModified(1457167230457)
+source stamps:
+1 items
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> hash(1a05f9ef9714ea6ddc0aabb4d292adaf7ad4d6a4)
+binary stamps:
+5 items
+C:\Java\jdk1.8.0_73\jre\lib\rt.jar -> lastModified(1456554428023)
+D:\repoSbt\cache\be.doeraene\scalajs-jquery_sjs0.6_2.11\jars\scalajs-jquery_sjs0.6_2.11-0.9.0.jar -> lastModified(1455396650000)
+D:\repoSbt\cache\com.lihaoyi\utest_sjs0.6_2.11\jars\utest_sjs0.6_2.11-0.3.0.jar -> lastModified(1422854662000)
+D:\repoSbt\cache\org.scala-js\scalajs-library_2.11\jars\scalajs-library_2.11-0.6.7.jar -> lastModified(1455193828000)
+D:\TDDOWNLOAD\scala-SDK-4.3.0-vfinal-2.11-win32.win32.x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> lastModified(1448960252000)
+class names:
+5 items
+C:\Java\jdk1.8.0_73\jre\lib\rt.jar -> java.lang.Object
+D:\repoSbt\cache\be.doeraene\scalajs-jquery_sjs0.6_2.11\jars\scalajs-jquery_sjs0.6_2.11-0.9.0.jar -> org.scalajs.jquery.JQueryStatic
+D:\repoSbt\cache\com.lihaoyi\utest_sjs0.6_2.11\jars\utest_sjs0.6_2.11-0.3.0.jar -> utest.framework.TestSuite
+D:\repoSbt\cache\org.scala-js\scalajs-library_2.11\jars\scalajs-library_2.11-0.6.7.jar -> scala.scalajs.js.Any$
+D:\TDDOWNLOAD\scala-SDK-4.3.0-vfinal-2.11-win32.win32.x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> scala.Function1
+internal apis:
+1 items
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD1isozAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAcdHV0b3JpYWwud2ViYXBwLlR1dG9yaWFsVGVzdHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQACVRlc3RTdWl0ZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ANnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFdXRlc3RzcQB+AFN0AAlmcmFtZXdvcmtzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AVHNxAH4AR3QABk9iamVjdHNxAH4AS3NxAH4ATnVxAH4AUQAAAANzcQB+AFN0AARqYXZhc3EAfgBTdAAEbGFuZ3EAfgBac3EAfgBHdAADQW55c3EAfgBLc3EAfgBOdXEAfgBRAAAAAnNxAH4AU3QABXNjYWxhcQB+AFp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAceHB0AA90dXRvcmlhbC53ZWJhcHBzcQB+AG10AAh0dXRvcmlhbHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU0XvWNx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAArRDpccHJvamVjdHNcc2NhbGFcc2NhbGFqcy11aXJvdXRlci1kZW1vXGJpbnQANkQ6XHByb2plY3RzXHNjYWxhXHNjYWxhanMtdWlyb3V0ZXItZGVtb1xzcmNcdGVzdFxzY2FsYXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAUGgX575cU6m3cCqu00pKtr3rU1qQ=
+external apis:
+0 items
+source infos:
+1 items
+D:\projects\scala\scalajs-uirouter-demo\src\test\scala\tutorial\webapp\TutorialTest.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU0XvWNx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAK0Q6XHByb2plY3RzXHNjYWxhXHNjYWxhanMtdWlyb3V0ZXItZGVtb1xiaW50ADZEOlxwcm9qZWN0c1xzY2FsYVxzY2FsYWpzLXVpcm91dGVyLWRlbW9cc3JjXHRlc3Rcc2NhbGE=
