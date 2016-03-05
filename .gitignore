@@ -1,0 +1,10 @@
+# sbt target folders
+target/
+bin/
+project/target
+project/project
+
+# eclipse project files
+/.settings
+/.classpath
+/.project
